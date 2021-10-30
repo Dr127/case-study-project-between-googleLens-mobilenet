@@ -42,3 +42,18 @@ b{
     height: 5px;
     width: 950px;
 }
+#decision{
+    background-color:slategray;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    height: 350px;
+width: 850px;
+color: white;
+}
+#comparison{
+    padding-top: 20px;  
+}
+#winner{
+    padding-top: 20px;
+    font-weight: bold;
+}
